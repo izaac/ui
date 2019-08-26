@@ -7944,6 +7944,15 @@ validation:
     missingProjectId: A target must have a project selected.
 
 ##############################
+# Resource States
+##############################
+
+resourceState:
+  active: active
+  registering: registering
+  unavailable: unavailable
+
+##############################
 # Model Properties
 ##############################
 model:
