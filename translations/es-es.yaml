@@ -5535,6 +5535,10 @@ validation:
       tooLongPrefix: '"{key}" no puede contener una sección de más de {max} caracteres'
       emptyLabel: '"{key}" no puede tener un prefijo vacío'
       tooLongKey: '"{key}" no puede tener una clave de más de {max} caracteres'
+resourceState:
+  active: activo
+  registering: registrando
+  unavailable: no Disponible
 model:
   account:
     kind:
